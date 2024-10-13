@@ -32,4 +32,11 @@ Files:
 race.csv: Dataset used for analysis.
 sample_work_datascience_Keshika.ipynb: Jupyter Notebook containing code and visualizations.
 
+New Fan Challenge based on Analysis: 
+Racing Insights
+
+This project proposes a new fan challenge, "Racing Insights", where fans analyze racing data to predict upcoming race outcomes. The challenge aims to increase engagement (+30%), social media interaction (+25%), and time spent on the racing website/app (+20%). Predicted monetization outcomes include +15% virtual merchandise sales, +10% sponsorship revenue, and +5% premium content sales. The challenge utilizes existing racing data platforms, with a development timeline of 8 weeks and budget allocation split between development (40%), marketing (30%), and rewards/sponsorships (30%). This project provides a unique opportunity for the racing industry to drive growth, revenue, and fan interaction through data-driven competition.
+
+
+
 
