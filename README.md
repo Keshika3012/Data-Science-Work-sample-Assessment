@@ -20,11 +20,11 @@ Predictive model achieved [insert MSE and R2 scores].
 
 Technologies Used:
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python,
+Pandas,
+NumPy.
+Matplotlib,
+Seaborn,
 Scikit-learn
 
 Files:
